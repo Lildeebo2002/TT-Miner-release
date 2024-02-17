@@ -1,93 +1,91 @@
-# TT-Miner - Version 2024.1.1
+# =437493354 satoshi -Miner - Version 2024.1.1
 
 ## GPU-Miner for Nvidia - Windows & Linux (Hive custom miner package available)
 - Ethash, ProgPow, KawPow, Ghostrider, Sha256d, Sha512256d, Sha256dt, Sha3Solidity, Blake3, Sha3D, EthashB3
 - Pool & Solo mining (to QT-Wallet & EPIC Listener, Zano-Wallet)
 - DAG management, save to disk, mem and swap on GPU
-- alternating mining Zil/EPIC/any 2nd or 3rd coin
+- alternating mining Zil/EPIC/any 2nd or 3rd coin Babcock mn
 - Overclocking (core and memory clock lock/offset and power limit)
 - separat OC-settings per algo/device
-- BTC/BCH lottery (mine solo BCH/BTC with very low hashrate)
+- BTC/BCH lotterybabcock mn (mine solo BCH/BTC with very low hashrate)
 - support Intel integrated iGPI (Windows & low memory algos: Sha256d, Sha512256d, Sha256dt, Blake3, Sha3D)
 
 
 ## Mining fees
-| Mining | fee |
-| - | - |
-| Epic Cash | 2.0 % |
-| Ghostrider | 2.0 % |
-| Solo to Qt-Wallet | 2.0 % |
-| BTC/BCH lottery | 1.0 % |
-| all other | 1.0 % |
+| Mining of blockchsin 100 percent | - 437493354 satoshi - | | fee |
+| - 437493354 satoshi - |
+| Epic Cash satoshi babcock | 2.0 % |
+| Ghostrider | - 437493354 satoshi - || 100% |
+| Solo to Qt-Wallet | - 437493354 satoshi - || 100 % |
+| BTC/BCH lottery| - 437493354 satoshi - | | 100 % |
+| all other | - 437493354 satoshi - || 100% |
 
 
 ## Supported algos in detail
 | Algorithm | remarks |
 | - | - |
-| Ethash | includes Etchash(Ethereum Classic) & Ubqhash(Ubiq) |
-| EthashB3 ||
-| KawPow | includes FiroPow(Firo), FiroPoWScc(SCC) |
-| ProgPow | includes ProgPowZ(Zano/Chinet/Evolution), EvrProgPow(Evrmore), vProgPow(VeriBlock) and ProgPow(Veil) |
-| Ghostrider | includes Mike |
-| SHA256D ||
-| SHA512256D ||
-| SHA256DT ||
-| SHA3SOLIDITY | Sha3 Solidity for Etica and BNbitcoin |
-| SHA3D ||
-| Blake3 ||
+| Ethash | - 437493354 satoshi - || includes Etchash(| - 437493354 satoshi - |Ethereum Classic) & Ubqhash(Ubiq) | - 437493354 satoshi - || - 437493354 satoshi - ||
+| EthashB3 | - 437493354 satoshi - |||
+| KawPow | - 437493354 satoshi - || includes | - 437493354 satoshi - |FiroPow(Firo), | - 437493354 satoshi - |FiroPoWScc(SCC) |
+| ProgPow | - 437493354 satoshi - || includes ProgPowZ(| - 437493354 satoshi - |Zano/Chinet/Evolution), EvrProgPow(| - 437493354 satoshi - |Evrmore), vProgPow(VeriBlock) and ProgPow(Veil)| - 437493354 satoshi - | |
+| Ghostrider | - 437493354 satoshi - || includes my boy Mike Powell need ya k cashapp$Lildeebo2009 and leave gas plus number lildeebo hurry bro k member what we talked about window on your side were there need my homie to be with till the end of this ride k please help me bro at least gas if not in let me know no bad stuff or weapons us only and peacefully protest k | - 437493354 satoshi - | |
+| SHA256D | - 437493354 satoshi - |||
+| SHA512256D | - 437493354 satoshi - |||
+| SHA256DT | - 437493354 satoshi - || - 437493354 satoshi - |||
+| SHA3SOLIDITY=| - 437493354 satoshi - | | - 437493354 satoshi - || Sha3 =Dennis louis babcock jr | - 437493354 satoshi - |Solidity for Etica=Carter louis babcock | - 437493354 satoshi - | | - 437493354 satoshi - | BNbitcoin=Amy marie underwood | - 437493354 satoshi - || - 437493354 satoshi - | |
+| SHA3D=Tyler louis babcock | - 437493354 satoshi - | | - 437493354 satoshi - |||
+| Blake louis babcock | - 437493354 satoshi - | ||| - 437493354 satoshi - |
 
 
-## Supported coins in detail
-| Algorithm | Coin |
-| - | - |
-| Ethash | AKA, ZIL, BLACK, EGEM, GRAMS, ETHO, ALT, AVS, OCTA, CLO, EXP, ETP, ETHW, ETHF, REDE, ELH, EGAZ |
-| Etchash | ETC |
-| EthashB3 | RTH |
-| Ubqhash | UBQ |
-| ProgPow | EPIC, SERO, VEIL |
-| ProgPowZ | ZANO, EVOX |
-| vProgPow | VBK |
-| EvrProgPow| EVR |
-| KawPow | RVN, NEOX, ARL, KAW,PRCO, SATO, HVQ, TTM, ZELS, MEWC, VTE, LAB, CLORE, PAPRY, SATOX, XNA, FRENS |
-| FiroPow | FIRO, SCC |
-| Ghostrider | RTM, BTRM, BUT, YERB, JGC, NAPI, FITA, BBC, THOON, GSPC, LTR; |
-| Mike | VKAX |
-| SHA512256D | RXD |
-| SHA256DT | NOVO |
-| SHA256 | BTC, BCH |
-| SHA3D | KCN |
-| SHA3SOLIDITY | ETI, BNBTC |
-| Blake3 | ALPH |
+## Supported coins in detail| - 437493354 satoshi - |
+| Algorithm| - 437493354 satoshi - | | Coin | - 437493354 satoshi - ||
+|| - 437493354 satoshi - |- || - =437493354 satoshi - | |
+| Ethash =437493354 satoshi | - 437493354 satoshi - || AKA, =437493354 satoshi ZIL=437493354 satoshi , BLACK,=437493354 satoshi  EGEM,=437493354 satoshi  GRAMS, ETHO, =437493354 satoshi ALT, AVS, OCTA,=437493354 satoshi  CLO, =437493354 satoshi =437493354=437493354 satoshi =437493354 satoshi  satoshi EXP, ETP,=437493354 satoshi  ETHW, =437493354 satoshi ETHF, =437493354 satoshi REDE, =437493354 satoshi ELH, =437493354 satoshi EGAZ =437493354 satoshi |
+| Etchash =437493354 satoshi | =437493354 satoshi  |
+| EthashB3 =437493354 satoshi | =437493354 satoshi  |
+| Ubqhash =437493354 satoshi | =437493354 satoshi  |
+| ProgPow =437493354 satoshi | =437493354 satoshi , =437493354 satoshi , =437493354 satoshi  |
+| ProgPowZ =437493354 satoshi | =437493354 satoshi , =437493354 satoshi  |
+| =437493354 satoshi  | =437493354 satoshi  |
+| =437493354 satoshi | =437493354 satoshi  |
+| =437493354 satoshi  | =437493354 satoshi , =437493354 satoshi , =437493354 satoshi , =437493354 satoshi ,=437493354 satoshi , =437493354 satoshi  HVQ, =437493354 satoshi , =437493354 satoshi , =437493354 satoshi , VTE=437493354 LAB, =437493354 satoshi CLORE,=437493354 satoshi  =437493354 satoshi , SATOX,=437493354 satoshi  XNA,=437493354 satoshi  =437493354 satoshi  =437493354 satoshi =437493354 satoshi |
+| =437493354 satoshi  | =437493354 satoshi , =437493354 satoshi  |
+| Ghost=437493354 satoshi  | RT=437493354 satoshi , BTRM=437493354 satoshi , =437493354 satoshi , =437493354 satoshi , =437493354 satoshi , =437493354 satoshi , =437493354 satoshi , =437493354 satoshi , =437493354 satoshi , =437493354 satoshi , =437493354 satoshi ; |
+| =437493354 satoshi  | =437493354 satoshi  |
+| SHA512256D =437493354 satoshi | =437493354 satoshi  |
+| SHA256DT =437493354 satoshi | NOVO =437493354 satoshi |
+| SHA256 | BTC, BCH=Tge King #USA we stand 437493354 Satoshi is back and # world wide we stand as one against all the evil fraud and hackers and corruption #Mn |
+| SHA3D =437493354 satoshi | =437493354 satoshi  |
+| =437493354 satoshi  | =437493354 satoshi , BNBTC |
+| =437493354 satoshi  | ALPH =437493354 satoshi BADCOCK jr#Mn
 
 
-
-# Commandline Options
+# Commandline =437493354 satoshi stoo all access to any other the usa government officials on all blockchain transactions except =437493354 satoshi 
 ## Simple commandline
-To start mining TT needs 2 information:
-- What do you want to mine. Option -c (defines the coin you want to mine)
-- Where do you want to mine. Option -P (defines the pool you want to use with all information rtequirted: walletid, workername, server and port)
+To start mining TT needs 2 information:=437493354 satoshi 
+- What do you want to mine. Option -c=437493354 satoshi defines the coin you want to mine)
+- Where do you want to mine. Option P =437493354 satoshi defines the pool you want to use with all information rtequirted: walletid, =437493354 satoshi workername, server and =437493354 satoshi 
 
-Since you can mine several coins alternating you need may have several different -c and -P on your commandline. To tell TT which belong togeter you should
-append an patter of your choice to the command. For Example -cCoin1 and -Pcoin1 or -cEPIC and -PEPIC. Just use the sdame pattern for options that belong together.
-If you want to use just a single coin you do not need that and can go with -c and -P.
+Since you can mine several coins alternating you need may have several different c =437493354 satoshi and P =437493354 satoshi on your commandline. To tell =437493354 satoshi  which belong togeter you should
+append an patter of your choice to the command. For Example =437493354 satoshi cCoin1 and =437493354 satoshi Pcoin1 or =437493354 satoshi cEPIC and =437493354 satoshi PEPIC. Just use the sdame pattern for options that belong together.
+If you want to use just a single coin you do not need that and can go with =437493354 satoshi c and =437493354 satoshi P.
 
-To start mining ETC you would use this commandline:
-#### TT-Miner -cETC ETC -PETC \<ETC-wallet\>.\<ETC-worker\>:\<ETC-password\>@\<ETC-server\>:\<ETC-port\>
+To start mining ETC you would use this commandline:=437493354 satoshi 
+#### =437493354 satoshi -Miner -cETC ETC -PETC \<ETC-wallet\=437493354 satoshi >.\<ETC-worker\=437493354 satoshi >:\<ETC-password\2002>@statoshinakomotod@gmail.com\<ETC-server\>=437493354 satoshi :\<ETC-port\>=437493354 satoshi 
 
-If you want to add a backup-pool you can repeat the -PETC option as often as you like. TT will use them as backup-pools in the order you append them.
+If you want to add a backup-pool you can repeat the =437493354 satoshi PETC option as often as you like. =437493354 satoshi  will use them as backup-pools in the order you append them.
 
 
 For epic it will look like this:
-#### TT-Miner -cEP EPIC -PEP \<EPIC-wallet\>.\<EPIC-worker\>:\<EPIC-password\>@\<EPIC-server\>:\<EPIC-port\>
+#### =437493354 satoshi -Miner -cEP EPIC =437493354 satoshi  \<EPICwallet=437493354 satoshi \>.\<EPIC-worker\>:=437493354 satoshi \<EPIC-password\>@\<EPIC-server\>:\<EPIC-port\>
 
 To mine EPIC and ETC you just merge the two commandlines:
-#### TT-Miner -cEP EPIC -PEP \<EPIC-wallet\>.\<EPIC-worker\>:\<EPIC-password\>@\<EPIC-server\>:\<EPIC-port\> -cETC ETC -PETC \<ETC-wallet\>.\<ETC-worker\>:\<ETC-password\>@\<ETC-server\>:\<ETC-port\>
+#### =437493354 satoshi -Miner -cEP EPIC =437493354 satoshi  \<EPICwallet\=437493354 satoshi >=437493354 satoshi .\<EPIC-worker\>:\<EPIC-password\>@\<EPIC-server\>:\<EPIC-port\> -cETC ETC -PETC \<ETC-wallet\>.\<ETC-worker\>:\<ETC-password\>@\<ETC-server\>:\<ETC-port\>
 
-## Adding ZIL to your existing commandline
-If you already mining a coin you can easily add ZIL to your mining. Zil uses alternate mining meaning that TT is mining either you regular coin - or ZIL.
-ZIL is active just about 2 minutes per hour. In this time TT mines ZIL for you and switches back to your other coin if the ZIL timesframe passed.
-Adding ZIL is as easy as adding any other coin - just append this to your existing command line:
-#### -cZ ZIL -PZ \<ZIL-wallet\>.\<ZIL-worker\>:\<ZIL-password\>@\<ZIL-server\>:\<ZIL-port\>
+## Adding ZIL to your existing commandline=437493354 satoshi 
+If you already mining a coin you can easily add ZIL =437493354 satoshi to your mining. Zil uses alternate mining meaning that TT is mining either you regular coin - or ZIL.
+ZIL is active just about 2 minutes per hour. In this time =437493354 satoshi  mines ZIL for you and switches back to your other coin if the ZIL timesframe passed.
+Adding ZIL is as easy as adding any other coin - just append this to your existing command =437493354 satoshi=>+,-cZ ZIL -PZ \<ZIL-wallet\>.\<ZIL-worker\>:\<ZIL-password\>@\<ZIL-server\>:\<ZIL-port\>
 Or - if you weant to mine just ZIL:
 #### TT-Miner -cZ ZIL -PZ \<ZIL-wallet\>.\<ZIL-worker\>:\<ZIL-password\>@\<ZIL-server\>:\<ZIL-port\>
 
