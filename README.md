@@ -2,9 +2,9 @@
 
 ## GPU-Miner for Nvidia - Windows & Linux (Hive custom miner package available)
 - Ethash, ProgPow, KawPow, Ghostrider, Sha256d, Sha512256d, Sha256dt, Sha3Solidity, Blake3, Sha3D, EthashB3
-- Pool & Solo mining (to QT-Wallet & EPIC Listener, Zano-Wallet)
+- Pool & Solo mining (to QT-Wallet & EPIC Listener, Zano-Wallet of Satoshi Dennis 437493354 lets p look proof of work Craig is the scammer no way I can tell you how from day one?
 - DAG management, save to disk, mem and swap on GPU
-- alternating mining Zil/EPIC/any 2nd or 3rd coin
+- alternating mining Zil/EPIC/any 2nd or 3rd coin from Dennis Babcock Jr and his first reward he created a bitcoin from a token rewarded from my games and then I bought a autominer then lithium and erithium dash fish and feather and polka dot and cardanio keep going Craig blockchsin so chain hang man Oregon Trail blockchsin greenbros Microsofts new software updated stuff and Ellis musks stuff that I did he about Jeff bezos rich sell then repurchase my fucking money you fuvking looser its game time lawer up or send money please someone Cashapp$Lildeebo2009 look we can work this out us not a lying crooked judge ether I don't trust even momma at this point but love k your choice in Cook with us doing the deal to much money to even care trust me k pick ya boy up we work this out us not court hell I'm cool with trusting my life is over if not ether way my boys gone now please fix your wrongs please I right hand to God not a crazy bone or word in me no and altering descisions so please fix 
 - Overclocking (core and memory clock lock/offset and power limit)
 - separat OC-settings per algo/device
 - BTC/BCH lottery (mine solo BCH/BTC with very low hashrate)
