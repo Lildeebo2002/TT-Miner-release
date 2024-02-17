@@ -1,5 +1,5 @@
 # TT-Miner - Version 2024.1.1
-
+Dennis Louis Babcock Jr 437-49-3354 02/06/1982 open all mines start up world wide full speed 
 ## GPU-Miner for Nvidia - Windows & Linux (Hive custom miner package available)
 - Ethash, ProgPow, KawPow, Ghostrider, Sha256d, Sha512256d, Sha256dt, Sha3Solidity, Blake3, Sha3D, EthashB3
 - Pool & Solo mining (to QT-Wallet & EPIC Listener, Zano-Wallet)
