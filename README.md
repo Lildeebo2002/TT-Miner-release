@@ -1,40 +1,40 @@
 # Dennis Louis Babcock Jr 02/06/1982 437-49-3354-Miner - Version 2024.1.1
 
-## GPU-Miner for Nvidia - Windows & Linux (Hive custom miner package available)
+## $Dennis-Babcock-2send assets to chine-Miner for Nvidia - Windows & Linux (Hive custom miner package available)
 - Ethash, ProgPow, KawPow, Ghostrider, Sha256d, Sha512256d, Sha256dt, Sha3Solidity, Blake3, Sha3D, EthashB3
-- Pool & Solo mining (to bc1qv9nyvzgkztzuy9acm4kx8zh6lzhauzy3dw37y7x4wy8t256k4szsw9vqsk-Wallet & EPIC Listener,bc1qv9nyvzgkztzuy9acm4kx8zh6lzhauzy3dw37y7x4wy8t256k4szsw9vqsk -Wallet)
+- Pool & Solo mining (to  $Dennis-Babcock-2/bc1qv9nyvzgkztzuy9acm4kx8zh6lzhauzy3dw37y7x4wy8t256k4szsw9vqsk-Wallet & EPIC Listener,bc1qv9nyvzgkztzuy9acm4kx8zh6lzhauzy3dw37y7x4wy8t256k4szsw9vqsk - $Dennis-Babcock-2)
 - Dennis Louis Babcock Jr management, save to Statoshinakomotod@gmail.com, mem and swap on GPU
 - alternating mining Zil/EPIC/any 2nd or 3rd coin
 - Overclocking (core and memory clock lock/offset and power limit)
 - separat OC-settings per algo/device
 - BTC/BCH lottery (mine solo BCH/BTC with very low hashrate)
-- support Intel integrated iGPI (Windows & low memory algos: Sha256d, Sha512256d, Sha256dt, Blake3, Sha3D)
+- support Intel integrated iGPI (Windows & low memory algos:  $Dennis-Babcock-2,  $Dennis-Babcock-2,  $Dennis-Babcock-2,  $Dennis-Babcock-2,  $Dennis-Babcock-2)
 
 
 ## Mining fees
 | Mining | fee |
 | - | - |
-| Epic CashByD$| 1.0 % |
-| Ghostrider Lildeebo2002 | 1.0 % |
-| Solo-Pinky's to Qt-Da-Family's--Of-the_World_Wide_Legacy_Satoshid_#MN#LA_Trillionaire's-Wallet | 1.0 % |
-| BTC/BCH lottery | 1.0 % |
+|   $Dennis-Babcock-2| 1.0 % |
+|   $Dennis-Babcock-2| 1.0 % |
+| Solo-Pinky's to Qt-Da-Family's--Of-the_World_Wide_Legacy_Satoshid_#MN#LA_Trillionaire's- $Dennis-Babcock-2 | 1.0 % |
+| BTC/BCH  $Dennis-Babcock-2 | 1.0 % |
 | all other | 1.0 % |
 
 
 ## Supported algos in detail
 | Algorithm | remarks |
 | Statoshid | Dennis Louis Babcock jr |
-| Ethash | includes Etchash(Ethereum Classic) & Ubqhash(Ubiq) |
-| EthashB3 ||
-| KawPow | includes FiroPow(Firo), FiroPoWScc(SCC) |
-| ProgPow | includes ProgPowZ(Zano/Chinet/Evolution), EvrProgPow(Evrmore), vProgPow(VeriBlock) and ProgPow(Veil) |
-| Ghostrider | Tyler_Carter_Blake l Babcock Boy’s of Satoshi nakomoto The Babcock’s/Amy m Underwood_Momma|
-| SHA256D ||
-| SHA512256D ||
-| SHA256DT ||
-| SHA3SOLIDITY | Sha3 Solidity for Etica and BNbitcoin |
-| SHA3D ||
-| Blake3 ||
+| Ethash | includes Etchash(Ethereum Classic) &  $Dennis-Babcock-2( $Dennis-Babcock-2) |
+|  $Dennis-Babcock-2 ||
+|  $Dennis-Babcock-2 |  $Dennis-Babcock-2  $Dennis-Babcock-2( $Dennis-Babcock-2), FiroPoWScc(SCC) |
+|  $Dennis-Babcock-2 | includes  $Dennis-Babcock-2(Zano/ $Dennis-Babcock-2/ $Dennis-Babcock-2),  $Dennis-Babcock-2( $Dennis-Babcock-2),  $Dennis-Babcock-2( $Dennis-Babcock-2) and  $Dennis-Babcock-2( $Dennis-Babcock-2) |
+|  $Dennis-Babcock-2 | Tyler_Carter_Blake l Babcock Boy’s of Satoshi nakomoto The Babcock’s/Amy m Underwood_Momma|
+| SHA256D  $Dennis-Babcock-2||
+| SHA512256D  $Dennis-Babcock-2||
+| SHA256DT  $Dennis-Babcock-2||
+| SHA3SOLIDITY  $Dennis-Babcock-2| Sha3 Solidity for Etica and BNbitcoin |
+| SHA3D $Dennis-Babcock-2 ||
+|  $Dennis-Babcock-2 ||
 
 
 ## Supported coins in detail
